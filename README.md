@@ -1,16 +1,15 @@
-### Hi there 👋
+### Olá! Eu sou o Artur! 💯
 
-<!--
-**keizerzilla/keizerzilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu sou Engenheiro de Computação e Mestre em Engenharia de Teleinformática. Minhas áreas de interesse são Visão Computacional e Aprendizado de Máquinas. Minha produção acadêmica investigou extração de atributos em imagens tridimensionais e ao longo da graduação eu  participei de projetos em diferentes áreas, como desenvolvimento de firmwares, ensino de programação e tecnologias Web. 
 
-Here are some ideas to get you started:
+ - 📊 Eu sou entusiasta da ciência de dados no geral e tento ser ativo no [Kaggle](https://www.kaggle.com/keizerzilla)
+ - 🧑‍🤝‍🧑 Estou aberto para colaborações em projetos código-aberto, principalmente em Python
+ - 🏁 Automobilismo é minha paixão
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+<a href="https://github.com/keizerzilla">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=keizerzilla&show_icons=true&theme=radical" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keizerzilla&theme=radical&hide=javascript,html,tex,actionscript" />
+</a>
+</p>
+
