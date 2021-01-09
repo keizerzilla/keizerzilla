@@ -6,10 +6,5 @@ Eu sou Engenheiro de Computação e Mestre em Engenharia de Teleinformática. Mi
  - 🧑‍🤝‍🧑 Estou aberto para colaborações em projetos código-aberto, principalmente em Python
  - 🏁 Automobilismo é minha paixão
 
-<p>
-<a href="https://github.com/keizerzilla">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=keizerzilla&show_icons=true&theme=radical" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keizerzilla&theme=radical&hide=javascript,html,tex,actionscript" />
-</a>
-</p>
+![keizerzilla's github stats](https://github-readme-stats.vercel.app/api?username=keizerzilla&show_icons=true&theme=radical)
 
