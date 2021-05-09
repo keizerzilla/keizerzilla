@@ -1,4 +1,1 @@
-Engenheiro de Computação e Mestre em Engenharia de Teleinformática, ambas formações pela Universidade Federal do Ceará (UFC). Minhas áreas de interesse são Visão Computacional e Aprendizado de Máquinas. Minha produção acadêmica investigou extração de atributos em imagens tridimensionais e ao longo da graduação eu participei de projetos em diferentes áreas, como desenvolvimento de firmwares, ensino de programação e desenvolvimento de sistemas Web. Outras áreas de interesse incluem: Redes de Computadores, Sistemas Embarcados, Linux, Ensino de Tecnologia, Metodologias Ágeis e Programação de Jogos.
-
-![status](https://github-readme-stats.vercel.app/api?username=keizerzilla&show_icons=true&theme=radical)
-![linguages](https://github-readme-stats.vercel.app/api/top-langs/?username=keizerzilla&theme=radical&layout=compact)
+![keizerzilla](https://i.imgur.com/pXsNf72.png)
