@@ -1,1 +1,1 @@
-![keizerzilla](https://i.imgur.com/XKO1rLx.png)
+![keizerzilla](https://i.imgur.com/9cj5g6H.png)
